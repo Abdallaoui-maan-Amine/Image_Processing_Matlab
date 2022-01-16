@@ -6,18 +6,18 @@
 
 **Une interface graphique (Matlab) qui regroupe les différents traitements :**
 
-  1. Échantillonnage et quantification.
+  **1. Échantillonnage et quantification.**
   
-  **b.** Conversion couleur à niveaux de gris.
+  **2. Conversion couleur à niveaux de gris.**
   
-  **c.** Conversion entre les espaces de couleur.
+  **3. Conversion entre les espaces de couleur.**
   
-  **d.** Traitements d’amélioration spatiale
+  **4. Traitements d’amélioration spatiale :**
   
-  **i.** Logarithmique et de puissance.
+  i. Logarithmique et de puissance.
 
-  **ii.** Par histogramme (étirement, recadrage).
+  ii. Par histogramme (étirement, recadrage).
 
-  **iii.** Filtres de lissage (choix du filtre, de sa taille, …).
+  iii. Filtres de lissage (choix du filtre, de sa taille, …).
 
-  **iv.** Filtres de rehaussement.
+  iv. Filtres de rehaussement.
