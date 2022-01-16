@@ -24,6 +24,6 @@
 
 
 
-Interface graphique :
+Résultat de l'interface graphique :
 
 ![This is an image](https://github.com/Abdallaoui-maan-Amine/Image_Processing_Matlab/blob/main/Graphic_Interface.PNG)
