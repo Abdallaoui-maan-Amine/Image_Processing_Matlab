@@ -4,7 +4,7 @@
 ### Réalisation d’une interface graphique :
 
 
-Une interface graphique (Matlab) qui regroupe les différents traitements :
+**Une interface graphique (Matlab) qui regroupe les différents traitements :**
   a. Échantillonnage et quantification
   b. Conversion couleur à niveaux de gris
   c. Conversion entre les espaces de couleur
