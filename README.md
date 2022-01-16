@@ -1,7 +1,7 @@
 # Image_Processing_Matlab
  
  
-\bftext{Réalisation d’une interface graphique :}
+### Réalisation d’une interface graphique :
 
 
 Une interface graphique (Matlab) qui regroupe les différents traitements :
