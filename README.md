@@ -26,4 +26,4 @@
 
 Interface graphique :
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/Abdallaoui-maan-Amine/Image_Processing_Matlab/blob/main/Graphic_Interface.PNG)
