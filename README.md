@@ -21,3 +21,9 @@
       iii. Filtres de lissage (choix du filtre, de sa taille, …).
 
       iv. Filtres de rehaussement.
+
+
+
+Interface graphique :
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
