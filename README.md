@@ -6,7 +6,7 @@
 
 **Une interface graphique (Matlab) qui regroupe les différents traitements :**
 
-  **a.** Échantillonnage et quantification.
+  1. Échantillonnage et quantification.
   
   **b.** Conversion couleur à niveaux de gris.
   
