@@ -1,6 +1,9 @@
 # Image_Processing_Matlab
  
-Réalisation d’une interface graphique :
+ 
+\bftext{Réalisation d’une interface graphique :}
+
+
 Une interface graphique (Matlab) qui regroupe les différents traitements :
   a. Échantillonnage et quantification
   b. Conversion couleur à niveaux de gris
