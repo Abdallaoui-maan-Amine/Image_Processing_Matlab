@@ -10,7 +10,7 @@
 
   2. Conversion couleur à niveaux de gris.
 
-  3. Conversion entre les espaces de couleur.
+  3. Conversion entre les espaces de couleurs.
 
   4. Traitements d’amélioration spatiale :
 
@@ -24,6 +24,7 @@
 
 
 
-      Résultat de l'interface graphique :
+###### Résultat de l'interface graphique :
+
 
 ![This is an image](Graphic_Interface.PNG)
